@@ -6,3 +6,4 @@ Aqui ficam as bugigangas que eu faço quando estou entediado, tenho ideias novas
 
 Fique à vontade para olhar, dar críticas construtivas e contribuir. :)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorlany&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
