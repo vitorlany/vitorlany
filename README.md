@@ -4,7 +4,7 @@
 name: Vitor Lany
 education: Bachelor's in Software Engineer
 speaks: ["English", "Portuguese", "Spanish", "German (beta)"]
-hard_skills: ["Backend", "Software Architecture", "Design Patterns", "Java", "C#", "React.js"]
+hard_skills: ["Backend", "Software Architecture", "Design Patterns"]
 ```
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -13,4 +13,4 @@ hard_skills: ["Backend", "Software Architecture", "Design Patterns", "Java", "C#
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript)
 ![REACTJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<img src="https://github-profile-trophy.vercel.app/?username=vitorlany&row=1&column=4">
+<img src="https://github-profile-trophy.vercel.app/?username=vitorlany&row=1&column=4&margin-w=15&margin-h=15">
