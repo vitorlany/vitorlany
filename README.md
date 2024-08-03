@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&pause=1000&multiline=true&repeat=false&width=435&lines=Hi+there...;Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&color=5D9874&weight=700&pause=1000&multiline=true&repeat=false&width=435&lines=Hi+there...;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 ```yaml
 name: Vitor Lany
