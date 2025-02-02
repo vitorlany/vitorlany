@@ -12,5 +12,3 @@ hard_skills: ["Backend", "Software Architecture", "Design Patterns"]
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript)
 ![REACTJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-<img src="https://github-profile-trophy.vercel.app/?username=vitorlany&row=1&column=4&margin-w=15&margin-h=15">
